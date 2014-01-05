@@ -12,3 +12,6 @@ update:
     plasmapkg --type runner --upgrade KRunner-YoudaoTranslate
     kquitapp krunner
     krunner
+
+How to use:  
+    open KRunner (Alt+F2), and type "yd " and some words, then KRunner will translate words.
